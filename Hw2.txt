@@ -1,0 +1,10 @@
+HW 2.
+Amazon logo, search by class, "a-icon a-icon-logo"
+Continue button, search by ID, "continue"
+Need help link, search by class, "a-expander-prompt"
+Forgot your password link, search by class, "a-link-normal"
+Other issues with Sign-In link, search by class, "a-link-normal"
+Create your Amazon account button, search by class "a-link-normal"
+*Conditions of use link, search by target, "_blank"
+*Privacy Notice link, search by target, "_blank
+
